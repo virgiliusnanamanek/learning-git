@@ -1,2 +1,2 @@
 # learning-git
-repo ini khusus untuk belajar git
+## repo ini khusus untuk belajar git
